@@ -1,6 +1,6 @@
 ## operatorler konusu islendi.
 
-## gorsel eklendi.
+### gorsel eklendi.
 
 
 
