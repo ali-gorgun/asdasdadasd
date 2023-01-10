@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\hoste\\Documents\\PROJECTS\\operatorler\\operatorler.csproj": {}
+    "c:\\Users\\hoste\\Documents\\C#\\operatorler\\operatorler.csproj": {}
   },
   "projects": {
-    "c:\\Users\\hoste\\Documents\\PROJECTS\\operatorler\\operatorler.csproj": {
+    "c:\\Users\\hoste\\Documents\\C#\\operatorler\\operatorler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\hoste\\Documents\\PROJECTS\\operatorler\\operatorler.csproj",
+        "projectUniqueName": "c:\\Users\\hoste\\Documents\\C#\\operatorler\\operatorler.csproj",
         "projectName": "operatorler",
-        "projectPath": "c:\\Users\\hoste\\Documents\\PROJECTS\\operatorler\\operatorler.csproj",
+        "projectPath": "c:\\Users\\hoste\\Documents\\C#\\operatorler\\operatorler.csproj",
         "packagesPath": "C:\\Users\\hoste\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\hoste\\Documents\\PROJECTS\\operatorler\\obj\\",
+        "outputPath": "c:\\Users\\hoste\\Documents\\C#\\operatorler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hoste\\AppData\\Roaming\\NuGet\\NuGet.Config"
