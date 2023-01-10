@@ -1,6 +1,6 @@
-operatorler konusu islendi.
+## operatorler konusu islendi.
 
-gorsel eklendi
+## gorsel eklendi.
 
 
 
