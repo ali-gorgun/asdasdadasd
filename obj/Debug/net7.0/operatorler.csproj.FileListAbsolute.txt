@@ -1,0 +1,15 @@
+C:\Users\hoste\Documents\PROJECTS\operatorler\bin\Debug\net7.0\operatorler.exe
+C:\Users\hoste\Documents\PROJECTS\operatorler\bin\Debug\net7.0\operatorler.deps.json
+C:\Users\hoste\Documents\PROJECTS\operatorler\bin\Debug\net7.0\operatorler.runtimeconfig.json
+C:\Users\hoste\Documents\PROJECTS\operatorler\bin\Debug\net7.0\operatorler.dll
+C:\Users\hoste\Documents\PROJECTS\operatorler\bin\Debug\net7.0\operatorler.pdb
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.csproj.AssemblyReference.cache
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.AssemblyInfo.cs
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.dll
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\refint\operatorler.dll
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.pdb
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\operatorler.genruntimeconfig.cache
+C:\Users\hoste\Documents\PROJECTS\operatorler\obj\Debug\net7.0\ref\operatorler.dll
